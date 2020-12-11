@@ -1,3 +1,3 @@
---extern=serde=C:\rust_example\target\debug\deps\libserde-1e63bc241cfd7336.rlib
---extern=serde_derive=C:\rust_example\target\debug\deps\serde_derive-88c54e7687dc6252.dll
--Ldependency=C:\rust_example\target\debug\deps
+--extern=serde=target\debug\deps\libserde-1e63bc241cfd7336.rlib
+--extern=serde_derive=target\debug\deps\serde_derive-88c54e7687dc6252.dll
+-Ldependency=target\debug\deps
