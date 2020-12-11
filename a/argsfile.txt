@@ -1,3 +1,0 @@
---extern=serde=target\debug\deps\libserde-1e63bc241cfd7336.rlib
---extern=serde_derive=target\debug\deps\serde_derive-88c54e7687dc6252.dll
--Ldependency=target\debug\deps
